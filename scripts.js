@@ -1,6 +1,6 @@
 $("#customerName").text("Meena Sharma");
 $("#policyNumber").text("EC72000874");
-$("#startDate").text("01-aUG-2020");
+$("#startDate").text("01-Aug-2020");
 $("#endDate").text("31-Jul-2021");
 
 
